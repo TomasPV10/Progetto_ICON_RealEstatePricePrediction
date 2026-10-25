@@ -1,0 +1,6 @@
+Model,Best_CV_ROC_AUC,Test_Accuracy,Test_ROC_AUC,Test_PR_AUC,Best_Params
+RandomForest,1.0,0.992,1.0,1.0,"{'clf__max_depth': None, 'clf__min_samples_split': 2, 'clf__n_estimators': 100}"
+SVM_RBF,0.9948,0.968,0.9954,0.9954,"{'clf__C': 1, 'clf__gamma': 0.1}"
+DecisionTree,0.993,0.976,1.0,1.0,"{'clf__max_depth': None, 'clf__min_samples_split': 5}"
+GradientBoosting,0.993,1.0,1.0,1.0,"{'clf__learning_rate': 0.05, 'clf__max_depth': 2, 'clf__n_estimators': 100}"
+KNN,0.9888,0.904,0.9834,0.9839,"{'clf__n_neighbors': 15, 'clf__weights': 'distance'}"

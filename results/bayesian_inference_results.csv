@@ -1,0 +1,4 @@
+Scenario,Budget_Fit,Distanza,Prezzo,Probabilita_Match_1,Istanze_Campione
+Scenario Ideale,alto,vicino,costoso,1.0,78
+Scenario Flessibile,medio,medio,medio,0.5849,53
+Scenario Sfavorevole,basso,lontano,costoso,0.0,4

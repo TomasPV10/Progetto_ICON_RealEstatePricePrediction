@@ -1,0 +1,5 @@
+house_id,property_type,monthly_price,location_city,features
+house_10,studio,2210,taipei,"wifi,elevator"
+house_33,loft,3420,taipei,"elevator,parking,balcony"
+house_36,loft,2730,taipei,"elevator,parking"
+house_80,loft,2650,taipei,"balcony,elevator,air_conditioning"
